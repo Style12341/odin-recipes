@@ -3,22 +3,43 @@
 }
 
 h1{
+    width: max-content;
+    margin: 8px auto;
+    padding: 8px;
     background-color: rgb(111, 216, 205);
+    text-align: center;
 }
 h2{
     background-color: rgb(133, 189, 183);
+    width: max-content;
 }
 
 p{
     background-color: rgb(98, 217, 225);
+    padding:8px;
+    margin: 8px;
 }
 ol{
     background-color: rgb(232, 171, 49);
-    
+    padding:8px 24px;
+    margin:8px;
+    width:max-content;
 }
 ul{
     background-color: rgb(141, 232, 49);
+    margin: 8px;
+    padding:8px 24px;
+    width:max-content;
+}
+li{
+    margin: 8px;
+    padding: 4px;
+    
 }
 h3{
     background-color: rgb(255, 0, 0);
+}
+img{
+    border: 2px solid black;
+    margin: 8px auto;
 }
