@@ -1,0 +1,24 @@
+*{
+    font-family: "Tahoma",sans-serif;
+}
+
+h1{
+    background-color: rgb(111, 216, 205);
+}
+h2{
+    background-color: rgb(133, 189, 183);
+}
+
+p{
+    background-color: rgb(98, 217, 225);
+}
+ol{
+    background-color: rgb(232, 171, 49);
+    
+}
+ul{
+    background-color: rgb(141, 232, 49);
+}
+h3{
+    background-color: rgb(255, 0, 0);
+}
